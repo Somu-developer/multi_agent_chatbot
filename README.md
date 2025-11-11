@@ -28,7 +28,7 @@ It uses:
 
 ## 🧩 Folder Structure
 
-ai-agent/
+multi_agent_chatbot/
 - app.py # Streamlit UI
 - bots.py # Bot logic + LLM loading
 - mcp.py # Main Control Program (decides which bot to use)
@@ -36,7 +36,6 @@ ai-agent/
 - requirements.txt # Dependencies
 - data/
 - memory.json # Created automatically
-- keep # Keeps folder in Git
 
 
 ---
