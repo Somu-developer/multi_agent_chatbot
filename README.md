@@ -76,5 +76,5 @@ Example Prompts
 
 🧭 General bot
 
-Give me 5 daily English practice ideas.
-What can you do?
+- Give me 5 daily English practice ideas.
+- What can you do?
