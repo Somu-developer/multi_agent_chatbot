@@ -1,6 +1,3 @@
-# Multi_agent_chatbot
-Chatbot with Streamlit + Huggingface
-
 # 💬 Multi-Agent AI Chatbot (Zero-Budget)
 
 This project is a **multi-bot AI assistant** built completely for free using open-source tools.
