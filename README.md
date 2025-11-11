@@ -1,4 +1,4 @@
-# multi_agent_chatbot
+# Multi_agent_chatbot
 Chatbot with Streamlit + Huggingface
 
 # 💬 Multi-Agent AI Chatbot (Zero-Budget)
