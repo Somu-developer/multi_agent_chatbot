@@ -44,8 +44,8 @@ multi_agent_chatbot/
 
 1. **Clone the repo**
 
-git clone https://github.com/<your-username>/ai-agent.git
-cd ai-agent
+- git clone https://github.com/<your-username>/multi_agent_chatbot.git
+- cd multi_agent_chatbot
 
 2.  **Install dependencies**
 
@@ -55,24 +55,24 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-Then open the local URL shown (usually http://localhost:8501).
+- Then open the local URL shown (usually http://localhost:8501).
 
 
 Example Prompts
 🧑‍🏫 Teacher bot
 
-Teach me 5 English letters and a word for each.
-Explain the difference between “a” and “an”.
-How to form simple present tense sentences?
+- Teach me 5 English letters and a word for each.
+- Explain the difference between “a” and “an”.
+- How to form simple present tense sentences?
 
 📄 Doc bot
 
-Summarise this text in 3 bullet points
+- Summarise this text in 3 bullet points
 
 😄 Fun bot
 
-Tell me a joke!
-Write a playful message to my friend.
+- Tell me a joke!
+- Write a playful message to my friend.
 
 🧭 General bot
 
